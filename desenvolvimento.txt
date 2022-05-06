@@ -1,0 +1,6 @@
+Crie um H1
+Crie um <p> mostre o que digitado ao perder o foco 
+Crie outro <p> mostre o que foi digitado em tempo real
+
+Crie um input para o primeiro <p>
+Crie mais um input para o segundo <p>
